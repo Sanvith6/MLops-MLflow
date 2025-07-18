@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/647cc3276e5f4f8e8856676096d48f86/artifacts
+end_time: 1752685641944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 647cc3276e5f4f8e8856676096d48f86
+run_name: sedate-wolf-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752685641865
+status: 3
+tags: []
+user_id: sanvi

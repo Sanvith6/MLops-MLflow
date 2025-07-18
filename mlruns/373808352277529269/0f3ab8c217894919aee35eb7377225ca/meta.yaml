@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/373808352277529269/0f3ab8c217894919aee35eb7377225ca/artifacts
+end_time: 1752833287980
+entry_point_name: ''
+experiment_id: '373808352277529269'
+lifecycle_stage: active
+run_id: 0f3ab8c217894919aee35eb7377225ca
+run_name: stately-cow-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752833277801
+status: 3
+tags: []
+user_id: sanvi

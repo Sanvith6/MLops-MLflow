@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d344e1c5a52c4c3abe0d58e5d7f6b60c/artifacts
+end_time: 1752832055647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d344e1c5a52c4c3abe0d58e5d7f6b60c
+run_name: efficient-toad-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752832055297
+status: 3
+tags: []
+user_id: sanvi

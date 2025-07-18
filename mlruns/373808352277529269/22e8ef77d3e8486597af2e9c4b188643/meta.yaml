@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/373808352277529269/22e8ef77d3e8486597af2e9c4b188643/artifacts
+end_time: 1752832125621
+entry_point_name: ''
+experiment_id: '373808352277529269'
+lifecycle_stage: active
+run_id: 22e8ef77d3e8486597af2e9c4b188643
+run_name: burly-ape-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752832125194
+status: 3
+tags: []
+user_id: sanvi

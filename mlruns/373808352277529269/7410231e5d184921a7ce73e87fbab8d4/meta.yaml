@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/373808352277529269/7410231e5d184921a7ce73e87fbab8d4/artifacts
+end_time: 1752846490239
+entry_point_name: ''
+experiment_id: '373808352277529269'
+lifecycle_stage: active
+run_id: 7410231e5d184921a7ce73e87fbab8d4
+run_name: flawless-fish-241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752846481879
+status: 3
+tags: []
+user_id: sanvi

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/528205548da9424393e733bbf9881ca0/artifacts
+end_time: 1752685187212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 528205548da9424393e733bbf9881ca0
+run_name: merciful-skink-677
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752685187097
+status: 3
+tags: []
+user_id: sanvi
