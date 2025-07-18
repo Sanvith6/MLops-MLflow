@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanvi/OneDrive/Desktop/mlops%20series/MLops-MLflow/mlruns/978245770159355241/bfa0802528c44bd889c78fb7de23887d/artifacts
+end_time: 1752862714388
+entry_point_name: ''
+experiment_id: '978245770159355241'
+lifecycle_stage: active
+run_id: bfa0802528c44bd889c78fb7de23887d
+run_name: able-mare-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752862714306
+status: 3
+tags: []
+user_id: sanvi

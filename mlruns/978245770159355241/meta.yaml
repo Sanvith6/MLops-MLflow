@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/sanvi/OneDrive/Desktop/mlops%20series/MLops-MLflow/mlruns/978245770159355241
+creation_time: 1752862702709
+experiment_id: '978245770159355241'
+last_update_time: 1752862702709
+lifecycle_stage: active
+name: breast-cancer-rf-hp

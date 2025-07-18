@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/sanvi/OneDrive/Desktop/mlops%20series/MLops-MLflow/mlruns/978245770159355241/models/m-af4f653f03184f57a47944ab61c13251/artifacts
+creation_timestamp: 1752862714809
+experiment_id: '978245770159355241'
+last_updated_timestamp: 1752862726476
+model_id: m-af4f653f03184f57a47944ab61c13251
+model_type: null
+name: random_forest
+source_run_id: 9f7da7344abd4bfca1dd762d0b6b8f56
+status: 2
+status_message: null

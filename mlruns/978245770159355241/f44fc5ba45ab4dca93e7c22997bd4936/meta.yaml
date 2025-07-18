@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanvi/OneDrive/Desktop/mlops%20series/MLops-MLflow/mlruns/978245770159355241/f44fc5ba45ab4dca93e7c22997bd4936/artifacts
+end_time: 1752862713655
+entry_point_name: ''
+experiment_id: '978245770159355241'
+lifecycle_stage: active
+run_id: f44fc5ba45ab4dca93e7c22997bd4936
+run_name: useful-cod-318
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752862713579
+status: 3
+tags: []
+user_id: sanvi

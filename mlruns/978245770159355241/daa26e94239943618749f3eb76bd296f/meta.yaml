@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanvi/OneDrive/Desktop/mlops%20series/MLops-MLflow/mlruns/978245770159355241/daa26e94239943618749f3eb76bd296f/artifacts
+end_time: 1752862714112
+entry_point_name: ''
+experiment_id: '978245770159355241'
+lifecycle_stage: active
+run_id: daa26e94239943618749f3eb76bd296f
+run_name: angry-sponge-360
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752862714023
+status: 3
+tags: []
+user_id: sanvi

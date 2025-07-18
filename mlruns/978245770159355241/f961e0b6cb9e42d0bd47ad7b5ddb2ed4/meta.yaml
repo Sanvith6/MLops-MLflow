@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanvi/OneDrive/Desktop/mlops%20series/MLops-MLflow/mlruns/978245770159355241/f961e0b6cb9e42d0bd47ad7b5ddb2ed4/artifacts
+end_time: 1752862714297
+entry_point_name: ''
+experiment_id: '978245770159355241'
+lifecycle_stage: active
+run_id: f961e0b6cb9e42d0bd47ad7b5ddb2ed4
+run_name: bouncy-dove-134
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752862714209
+status: 3
+tags: []
+user_id: sanvi

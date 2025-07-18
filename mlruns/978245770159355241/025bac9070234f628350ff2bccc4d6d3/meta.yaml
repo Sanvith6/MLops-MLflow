@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/sanvi/OneDrive/Desktop/mlops%20series/MLops-MLflow/mlruns/978245770159355241/025bac9070234f628350ff2bccc4d6d3/artifacts
+end_time: 1752862714482
+entry_point_name: ''
+experiment_id: '978245770159355241'
+lifecycle_stage: active
+run_id: 025bac9070234f628350ff2bccc4d6d3
+run_name: luminous-donkey-78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752862714396
+status: 3
+tags: []
+user_id: sanvi
